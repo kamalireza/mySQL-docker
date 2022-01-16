@@ -1,6 +1,8 @@
 # Task 02 SQL query
 
-there is two way to run the task: If you already have MySQL on your machine please copy and past the script from the query.sql. otherwise, you could run it in docker. 
+there is two way to run the task: If you already have MySQL on your machine please copy and past the script from the query.sql. 
+otherwise, you could run it in docker. 
+
 ## Requirments
 Docker or MySQL shell
 
